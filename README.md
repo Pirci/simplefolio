@@ -1,7 +1,10 @@
 ## Personal Portfolio Page
 
 > Hi, Welcome to my portfolio.
-> I aimed to exhibit my existing projects effectively on the portfolio page. You can find more projects I have exhibited on my github profile. 
+> 
+> I aimed to exhibit my existing projects effectively on the portfolio page. 
+> 
+> You can find more projects I have exhibited on my github profile. 
 
 
 ## Live Demo
