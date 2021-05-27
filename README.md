@@ -2,7 +2,7 @@
 
 ## A minimal portfolio template for Developers!
 
-https://pirci.github.io/simplefolio/src/template.html
+https://emre-pirci.netlify.app
 
 <h2 align="center">
   <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
